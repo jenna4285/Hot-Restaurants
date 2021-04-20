@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
-  "engines":{"node":"14.16"},
+  "engines": {
+    "node": "14.16"
+  },
   "dependencies": {
     "express": "^4.17.1"
   },
