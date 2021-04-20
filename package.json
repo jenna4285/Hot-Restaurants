@@ -1,0 +1,24 @@
+{
+  "name": "hot-restaurants",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jenna4285/Hot-Restaurants.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jenna4285/Hot-Restaurants/issues"
+  },
+  "homepage": "https://github.com/jenna4285/Hot-Restaurants#readme"
+}
